@@ -20,12 +20,5 @@
 
 ---
 
-## Getting Started
-
-### Prerequisites
-- **Node.js** (v16 or later) for the frontend.
-- **Java 17** and **Maven** for the backend.
-- **Docker** for containerization.
-
 ### Setup Instructions
 1. 
